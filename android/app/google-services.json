@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581220745469",
+    "project_id": "momma-a5efe",
+    "storage_bucket": "momma-a5efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581220745469:android:bc9d8613785302c3c4be94",
+        "android_client_info": {
+          "package_name": "com.example.momma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581220745469-icirrg57drb6p69s3bfaeqdgqj1bj3ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXFSHdBBaZCln8vCbRZsqU3OVePOatLl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581220745469-icirrg57drb6p69s3bfaeqdgqj1bj3ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
